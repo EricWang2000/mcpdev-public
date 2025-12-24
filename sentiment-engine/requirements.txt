@@ -1,0 +1,46 @@
+# Core Dependencies
+flask>=3.0.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+
+# RSS Feed Processing
+feedparser>=6.0.0
+
+# Sentiment Analysis
+openai>=1.0.0
+transformers>=4.30.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+protobuf>=4.21.0
+vaderSentiment>=3.3.2
+
+# Email
+secure-smtplib>=0.1.1
+
+# Database
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
+pytz>=2023.3
+python-dateutil>=2.8.2
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Web Dashboard
+flask-cors>=4.0.0
+werkzeug>=3.0.0
+gunicorn>=21.2.0
+
+# Cloudflare Integration
+wrangler>=0.2.0
+cloudflare>=2.0.0
+
+# Development & Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
